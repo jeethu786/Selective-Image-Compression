@@ -1,0 +1,5 @@
+rootProject.name='Image Compressor'
+include ':app'
+//include ':openCVLibrary3410'
+//include ':openCVLibrary24136'
+include ':openCVLibrary3410'
